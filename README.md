@@ -1,2 +1,2 @@
-# Number-Guessing-Game
-In This Game The User Has to put a number the system will tell the user to put the larger or smaller number according to the requirment and after guessing the game will be over
+Number Guessing Game 
+![image](https://github.com/user-attachments/assets/6487f568-bbaf-4686-8832-eb1a0d9d8de7)
